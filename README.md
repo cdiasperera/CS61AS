@@ -1,1 +1,1 @@
-A A repo that holds the solutions to all homework questions/projects in Berkley's CS61AS Spring 2016 course (In Progress).
+A repo that holds the solutions to all homework questions/projects in Berkley's CS61AS Spring 2016 course (In Progress).
